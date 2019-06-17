@@ -1,5 +1,6 @@
 /node_modules
 /build
 /server/node_modules
-/server/build
+/server/dist
+/server/*-lock.json
 *lock.json
